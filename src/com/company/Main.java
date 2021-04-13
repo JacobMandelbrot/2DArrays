@@ -13,6 +13,7 @@ public class Main {
                 System.out.print(myArr[i][k]);
             }
             System.out.println();
+            System.out.println();
         }
     }
 }
